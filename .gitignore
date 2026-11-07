@@ -1,0 +1,33 @@
+# Jupyter / Python cruft
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Cached preprocessing / trained-model-checkpoint directories produced by
+# re-running pipelines locally. These are intermediate compute artifacts
+# (bag dataframes, model weights, scalers), not results -- the actual
+# findings from runs in these trees are the loose .csv/.json/.png files
+# living alongside them, which are NOT ignored.
+**/new_cache/
+**/new_cache_*/
+**/DLPFC_CELLOHOOD_MODEL*/
+**/DLPFC_CP/
+**/DLPFC_CP_*/
+**/DLPFC_CB/
+**/MIBI_CB_*/
+**/MIBI_CM_*/
+**/MIBI_CP_*/
+**/SpleenBCDf_*/
+**/SPLEEN_CM_*/
+**/SPLEEN_CP_*/
+**/SPLEEN_*_100.0/
+**/smooth_cache*/
+**/fresh_smooth_cache_ablation/
+
+# Oversized intermediate artifacts (latent-direction dumps, raw per-cell
+# matrices reconstructible from the public source dataset via build_df.py) --
+# individually too large for a plain git repo (>GitHub's 100MB/file cap).
+analyses/SPLEEN_ABLATION/spleen_ld_25.0.pickle
+analyses/XENIUM_BREAST_CANCER/xenium_full.csv
+analyses/XENIUM_BREAST_CANCER/cells.csv.gz
+analyses/XENIUM_BREAST_CANCER/matrix.h5

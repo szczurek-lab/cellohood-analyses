@@ -1,0 +1,10 @@
+=== Linear probe: per-patient cluster-composition histogram -> logistic regression, Leave-One-Out CV ===
+n_comp=2, k=8: LOO-CV AUCROC=0.354
+n_comp=5, k=8: LOO-CV AUCROC=0.537
+n_comp=5, k=12: LOO-CV AUCROC=0.533
+n_comp=10, k=10: LOO-CV AUCROC=0.618
+n_comp=5, k=2: LOO-CV AUCROC=0.200
+n_comp=10, k=2: LOO-CV AUCROC=0.000
+
+Reference: CytoCommunity supervised = 0.891, SPACE-GM supervised = 0.823
+Reference: Cellohood unsupervised heuristic (from before) = 0.67-0.72

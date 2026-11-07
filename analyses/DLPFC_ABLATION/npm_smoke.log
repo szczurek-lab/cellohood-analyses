@@ -1,0 +1,312 @@
+2026-09-27 17:11:29.718592: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 17:11:29.747420: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 17:11:29.748218: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 17:11:33.088891: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 17:11:33.140488: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 17:11:33.141256: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 17:11:33.141661: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 17:11:34.568943: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 17:11:34.569467: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 17:11:34.569901: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 17:11:34.570325: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 7419 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:21:00.0, compute capability: 7.5
+2026-09-27 17:11:40.979128: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+DT: 5.0, RN: 0, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Train on 2257 samples, validate on 6819 samples
+Epoch 1/400
+2257/2257 - 7s - loss: 0.9106 - ent: 0.0010 - val_loss: 0.5506 - val_ent: 0.0010 - epoch_time_sec: 6.8821 - cpu_rss_mb: 2624.9727 - gpu_process_mem_mb: 8082.0000 - 7s/epoch - 3ms/sample
+Epoch 2/400
+2257/2257 - 1s - loss: 0.5157 - ent: 0.0010 - val_loss: 0.4093 - val_ent: 0.0010 - epoch_time_sec: 1.3400 - cpu_rss_mb: 2630.2930 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 594us/sample
+Epoch 3/400
+2257/2257 - 2s - loss: 0.4181 - ent: 0.0010 - val_loss: 0.3651 - val_ent: 0.0010 - epoch_time_sec: 1.5826 - cpu_rss_mb: 2631.6836 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 701us/sample
+Epoch 4/400
+2257/2257 - 2s - loss: 0.3907 - ent: 0.0010 - val_loss: 0.3569 - val_ent: 0.0010 - epoch_time_sec: 1.6660 - cpu_rss_mb: 2632.2422 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 738us/sample
+Epoch 5/400
+2257/2257 - 1s - loss: 0.3791 - ent: 0.0010 - val_loss: 0.3468 - val_ent: 0.0010 - epoch_time_sec: 1.3380 - cpu_rss_mb: 2633.2070 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 593us/sample
+Epoch 6/400
+2257/2257 - 2s - loss: 0.3701 - ent: 0.0010 - val_loss: 0.3422 - val_ent: 0.0010 - epoch_time_sec: 1.8376 - cpu_rss_mb: 2633.5117 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 814us/sample
+Epoch 7/400
+2257/2257 - 2s - loss: 0.3656 - ent: 0.0010 - val_loss: 0.3384 - val_ent: 0.0010 - epoch_time_sec: 1.6415 - cpu_rss_mb: 2633.7539 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 728us/sample
+Epoch 8/400
+2257/2257 - 1s - loss: 0.3626 - ent: 0.0010 - val_loss: 0.3363 - val_ent: 0.0010 - epoch_time_sec: 1.3539 - cpu_rss_mb: 2633.8516 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 600us/sample
+Epoch 9/400
+2257/2257 - 2s - loss: 0.3601 - ent: 0.0010 - val_loss: 0.3341 - val_ent: 0.0010 - epoch_time_sec: 1.7042 - cpu_rss_mb: 2634.0117 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 755us/sample
+Epoch 10/400
+2257/2257 - 2s - loss: 0.3581 - ent: 0.0010 - val_loss: 0.3328 - val_ent: 0.0010 - epoch_time_sec: 1.5823 - cpu_rss_mb: 2634.0781 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 701us/sample
+Epoch 11/400
+2257/2257 - 1s - loss: 0.3566 - ent: 0.0010 - val_loss: 0.3305 - val_ent: 0.0010 - epoch_time_sec: 1.3856 - cpu_rss_mb: 2634.1484 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 614us/sample
+Epoch 12/400
+2257/2257 - 2s - loss: 0.3550 - ent: 0.0010 - val_loss: 0.3292 - val_ent: 0.0010 - epoch_time_sec: 1.5432 - cpu_rss_mb: 2634.2383 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 684us/sample
+Epoch 13/400
+2257/2257 - 2s - loss: 0.3537 - ent: 0.0010 - val_loss: 0.3275 - val_ent: 0.0010 - epoch_time_sec: 1.7446 - cpu_rss_mb: 2634.6406 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 773us/sample
+Epoch 14/400
+2257/2257 - 1s - loss: 0.3520 - ent: 0.0010 - val_loss: 0.3262 - val_ent: 0.0010 - epoch_time_sec: 1.2951 - cpu_rss_mb: 2634.8594 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 574us/sample
+Epoch 15/400
+2257/2257 - 2s - loss: 0.3506 - ent: 0.0010 - val_loss: 0.3243 - val_ent: 0.0010 - epoch_time_sec: 1.5834 - cpu_rss_mb: 2634.9492 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 702us/sample
+Epoch 16/400
+2257/2257 - 1s - loss: 0.3491 - ent: 0.0010 - val_loss: 0.3228 - val_ent: 0.0010 - epoch_time_sec: 1.4418 - cpu_rss_mb: 2634.9609 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 639us/sample
+Epoch 17/400
+2257/2257 - 1s - loss: 0.3473 - ent: 0.0010 - val_loss: 0.3209 - val_ent: 0.0010 - epoch_time_sec: 1.4812 - cpu_rss_mb: 2634.9805 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 657us/sample
+Epoch 18/400
+2257/2257 - 2s - loss: 0.3452 - ent: 0.0010 - val_loss: 0.3182 - val_ent: 0.0010 - epoch_time_sec: 1.5575 - cpu_rss_mb: 2635.2109 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 690us/sample
+Epoch 19/400
+2257/2257 - 1s - loss: 0.3428 - ent: 0.0010 - val_loss: 0.3161 - val_ent: 0.0010 - epoch_time_sec: 1.0365 - cpu_rss_mb: 2635.3047 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 460us/sample
+Epoch 20/400
+2257/2257 - 2s - loss: 0.3405 - ent: 0.0010 - val_loss: 0.3138 - val_ent: 0.0010 - epoch_time_sec: 1.5711 - cpu_rss_mb: 2635.3477 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 695us/sample
+Epoch 21/400
+2257/2257 - 1s - loss: 0.3377 - ent: 0.0010 - val_loss: 0.3100 - val_ent: 0.0010 - epoch_time_sec: 1.4703 - cpu_rss_mb: 2635.4570 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 651us/sample
+Epoch 22/400
+2257/2257 - 1s - loss: 0.3339 - ent: 0.0010 - val_loss: 0.3062 - val_ent: 0.0010 - epoch_time_sec: 1.4291 - cpu_rss_mb: 2635.5000 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 633us/sample
+Epoch 23/400
+2257/2257 - 1s - loss: 0.3300 - ent: 0.0010 - val_loss: 0.3037 - val_ent: 0.0010 - epoch_time_sec: 1.3141 - cpu_rss_mb: 2635.5586 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 582us/sample
+Epoch 24/400
+2257/2257 - 2s - loss: 0.3264 - ent: 0.0010 - val_loss: 0.2988 - val_ent: 0.0010 - epoch_time_sec: 1.5726 - cpu_rss_mb: 2635.6055 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 698us/sample
+Epoch 25/400
+2257/2257 - 2s - loss: 0.3219 - ent: 0.0010 - val_loss: 0.2928 - val_ent: 0.0010 - epoch_time_sec: 1.7000 - cpu_rss_mb: 2635.6758 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 753us/sample
+Epoch 26/400
+2257/2257 - 2s - loss: 0.3168 - ent: 0.0010 - val_loss: 0.2889 - val_ent: 0.0010 - epoch_time_sec: 1.5152 - cpu_rss_mb: 2635.9531 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 671us/sample
+Epoch 27/400
+2257/2257 - 1s - loss: 0.3126 - ent: 0.0010 - val_loss: 0.2844 - val_ent: 0.0010 - epoch_time_sec: 1.4587 - cpu_rss_mb: 2636.0156 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 646us/sample
+Epoch 28/400
+2257/2257 - 2s - loss: 0.3072 - ent: 0.0010 - val_loss: 0.2795 - val_ent: 0.0010 - epoch_time_sec: 1.6494 - cpu_rss_mb: 2636.0586 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 731us/sample
+Epoch 29/400
+2257/2257 - 1s - loss: 0.3021 - ent: 0.0010 - val_loss: 0.2738 - val_ent: 0.0010 - epoch_time_sec: 1.3390 - cpu_rss_mb: 2636.0938 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 593us/sample
+Epoch 30/400
+2257/2257 - 2s - loss: 0.2974 - ent: 0.0010 - val_loss: 0.2705 - val_ent: 0.0010 - epoch_time_sec: 1.5587 - cpu_rss_mb: 2636.1328 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 691us/sample
+Epoch 31/400
+2257/2257 - 2s - loss: 0.2937 - ent: 0.0010 - val_loss: 0.2672 - val_ent: 0.0010 - epoch_time_sec: 1.5794 - cpu_rss_mb: 2636.2148 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 700us/sample
+Epoch 32/400
+2257/2257 - 1s - loss: 0.2907 - ent: 0.0010 - val_loss: 0.2651 - val_ent: 0.0010 - epoch_time_sec: 1.3377 - cpu_rss_mb: 2636.2266 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 589us/sample
+Epoch 33/400
+2257/2257 - 1s - loss: 0.2889 - ent: 0.0010 - val_loss: 0.2625 - val_ent: 0.0010 - epoch_time_sec: 1.4901 - cpu_rss_mb: 2636.2617 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 660us/sample
+Epoch 34/400
+2257/2257 - 2s - loss: 0.2867 - ent: 0.0010 - val_loss: 0.2601 - val_ent: 0.0010 - epoch_time_sec: 1.5042 - cpu_rss_mb: 2636.2930 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 667us/sample
+Epoch 35/400
+2257/2257 - 1s - loss: 0.2849 - ent: 0.0010 - val_loss: 0.2587 - val_ent: 0.0010 - epoch_time_sec: 1.4036 - cpu_rss_mb: 2636.3164 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 622us/sample
+Epoch 36/400
+2257/2257 - 2s - loss: 0.2833 - ent: 0.0010 - val_loss: 0.2571 - val_ent: 0.0010 - epoch_time_sec: 1.8352 - cpu_rss_mb: 2636.3477 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 813us/sample
+Epoch 37/400
+2257/2257 - 2s - loss: 0.2819 - ent: 0.0010 - val_loss: 0.2560 - val_ent: 0.0010 - epoch_time_sec: 1.5625 - cpu_rss_mb: 2636.3594 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 692us/sample
+Epoch 38/400
+2257/2257 - 1s - loss: 0.2808 - ent: 0.0010 - val_loss: 0.2551 - val_ent: 0.0010 - epoch_time_sec: 1.3407 - cpu_rss_mb: 2636.3672 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 594us/sample
+Epoch 39/400
+2257/2257 - 2s - loss: 0.2799 - ent: 0.0010 - val_loss: 0.2538 - val_ent: 0.0010 - epoch_time_sec: 1.8059 - cpu_rss_mb: 2636.4062 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 800us/sample
+Epoch 40/400
+2257/2257 - 2s - loss: 0.2787 - ent: 0.0010 - val_loss: 0.2531 - val_ent: 0.0010 - epoch_time_sec: 1.7840 - cpu_rss_mb: 2636.4180 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 791us/sample
+Epoch 41/400
+2257/2257 - 1s - loss: 0.2780 - ent: 0.0010 - val_loss: 0.2535 - val_ent: 0.0010 - epoch_time_sec: 1.4971 - cpu_rss_mb: 2636.4570 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 663us/sample
+Epoch 42/400
+2257/2257 - 1s - loss: 0.2777 - ent: 0.0010 - val_loss: 0.2519 - val_ent: 0.0010 - epoch_time_sec: 1.4142 - cpu_rss_mb: 2636.4609 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 627us/sample
+Epoch 43/400
+2257/2257 - 2s - loss: 0.2767 - ent: 0.0010 - val_loss: 0.2512 - val_ent: 0.0010 - epoch_time_sec: 1.7111 - cpu_rss_mb: 2636.4766 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 758us/sample
+Epoch 44/400
+2257/2257 - 1s - loss: 0.2763 - ent: 0.0010 - val_loss: 0.2506 - val_ent: 0.0010 - epoch_time_sec: 1.3637 - cpu_rss_mb: 2636.4805 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 604us/sample
+Epoch 45/400
+2257/2257 - 1s - loss: 0.2755 - ent: 0.0010 - val_loss: 0.2503 - val_ent: 0.0010 - epoch_time_sec: 1.4150 - cpu_rss_mb: 2636.5430 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 627us/sample
+Epoch 46/400
+2257/2257 - 2s - loss: 0.2752 - ent: 0.0010 - val_loss: 0.2496 - val_ent: 0.0010 - epoch_time_sec: 1.5962 - cpu_rss_mb: 2636.5664 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 706us/sample
+Epoch 47/400
+2257/2257 - 2s - loss: 0.2747 - ent: 0.0010 - val_loss: 0.2493 - val_ent: 0.0010 - epoch_time_sec: 1.5863 - cpu_rss_mb: 2636.5898 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 703us/sample
+Epoch 48/400
+2257/2257 - 1s - loss: 0.2743 - ent: 0.0010 - val_loss: 0.2493 - val_ent: 0.0010 - epoch_time_sec: 1.2184 - cpu_rss_mb: 2636.5938 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 540us/sample
+Epoch 49/400
+2257/2257 - 2s - loss: 0.2741 - ent: 0.0010 - val_loss: 0.2487 - val_ent: 0.0010 - epoch_time_sec: 1.8075 - cpu_rss_mb: 2636.6016 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 801us/sample
+Epoch 50/400
+2257/2257 - 2s - loss: 0.2738 - ent: 0.0010 - val_loss: 0.2485 - val_ent: 0.0010 - epoch_time_sec: 1.5813 - cpu_rss_mb: 2636.6250 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 701us/sample
+Epoch 51/400
+2257/2257 - 2s - loss: 0.2736 - ent: 0.0010 - val_loss: 0.2482 - val_ent: 0.0010 - epoch_time_sec: 1.5928 - cpu_rss_mb: 2636.6680 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 706us/sample
+Epoch 52/400
+2257/2257 - 2s - loss: 0.2733 - ent: 0.0010 - val_loss: 0.2484 - val_ent: 0.0010 - epoch_time_sec: 1.7692 - cpu_rss_mb: 2636.6797 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 784us/sample
+Epoch 53/400
+2257/2257 - 1s - loss: 0.2732 - ent: 0.0010 - val_loss: 0.2481 - val_ent: 0.0010 - epoch_time_sec: 1.4598 - cpu_rss_mb: 2636.7227 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 646us/sample
+Epoch 54/400
+2257/2257 - 2s - loss: 0.2734 - ent: 0.0010 - val_loss: 0.2482 - val_ent: 0.0010 - epoch_time_sec: 1.5619 - cpu_rss_mb: 2636.7500 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 689us/sample
+Epoch 55/400
+2257/2257 - 1s - loss: 0.2733 - ent: 0.0010 - val_loss: 0.2481 - val_ent: 0.0010 - epoch_time_sec: 1.2619 - cpu_rss_mb: 2636.7695 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 559us/sample
+Epoch 56/400
+2257/2257 - 2s - loss: 0.2730 - ent: 0.0010 - val_loss: 0.2482 - val_ent: 0.0010 - epoch_time_sec: 1.7705 - cpu_rss_mb: 2636.7695 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 785us/sample
+Epoch 57/400
+2257/2257 - 1s - loss: 0.2729 - ent: 0.0010 - val_loss: 0.2477 - val_ent: 0.0010 - epoch_time_sec: 1.4672 - cpu_rss_mb: 2636.7812 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 650us/sample
+Epoch 58/400
+2257/2257 - 1s - loss: 0.2727 - ent: 0.0010 - val_loss: 0.2472 - val_ent: 0.0010 - epoch_time_sec: 1.1651 - cpu_rss_mb: 2636.8008 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 516us/sample
+Epoch 59/400
+2257/2257 - 2s - loss: 0.2724 - ent: 0.0010 - val_loss: 0.2475 - val_ent: 0.0010 - epoch_time_sec: 1.7800 - cpu_rss_mb: 2636.8242 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 789us/sample
+Epoch 60/400
+2257/2257 - 2s - loss: 0.2724 - ent: 0.0010 - val_loss: 0.2469 - val_ent: 0.0010 - epoch_time_sec: 1.8106 - cpu_rss_mb: 2636.8281 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 798us/sample
+Epoch 61/400
+2257/2257 - 2s - loss: 0.2721 - ent: 0.0010 - val_loss: 0.2472 - val_ent: 0.0010 - epoch_time_sec: 1.5168 - cpu_rss_mb: 2636.8438 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 672us/sample
+Epoch 62/400
+2257/2257 - 1s - loss: 0.2721 - ent: 0.0010 - val_loss: 0.2474 - val_ent: 0.0010 - epoch_time_sec: 1.4069 - cpu_rss_mb: 2636.8594 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 623us/sample
+Epoch 63/400
+2257/2257 - 2s - loss: 0.2720 - ent: 0.0010 - val_loss: 0.2473 - val_ent: 0.0010 - epoch_time_sec: 1.7118 - cpu_rss_mb: 2636.8672 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 758us/sample
+Epoch 64/400
+2257/2257 - 1s - loss: 0.2720 - ent: 0.0010 - val_loss: 0.2468 - val_ent: 0.0010 - epoch_time_sec: 1.3019 - cpu_rss_mb: 2636.8711 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 577us/sample
+Epoch 65/400
+2257/2257 - 1s - loss: 0.2720 - ent: 0.0010 - val_loss: 0.2467 - val_ent: 0.0010 - epoch_time_sec: 1.4147 - cpu_rss_mb: 2636.8750 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 627us/sample
+Epoch 66/400
+2257/2257 - 2s - loss: 0.2718 - ent: 0.0010 - val_loss: 0.2469 - val_ent: 0.0010 - epoch_time_sec: 1.5219 - cpu_rss_mb: 2636.8828 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 675us/sample
+Epoch 67/400
+2257/2257 - 2s - loss: 0.2717 - ent: 0.0010 - val_loss: 0.2468 - val_ent: 0.0010 - epoch_time_sec: 1.7322 - cpu_rss_mb: 2636.8984 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 767us/sample
+Epoch 68/400
+2257/2257 - 2s - loss: 0.2721 - ent: 0.0010 - val_loss: 0.2466 - val_ent: 0.0010 - epoch_time_sec: 1.5316 - cpu_rss_mb: 2636.8984 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 679us/sample
+Epoch 69/400
+2257/2257 - 1s - loss: 0.2717 - ent: 0.0010 - val_loss: 0.2466 - val_ent: 0.0010 - epoch_time_sec: 1.3434 - cpu_rss_mb: 2636.9180 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 595us/sample
+Epoch 70/400
+2257/2257 - 2s - loss: 0.2715 - ent: 0.0010 - val_loss: 0.2468 - val_ent: 0.0010 - epoch_time_sec: 1.5349 - cpu_rss_mb: 2636.9180 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 680us/sample
+Epoch 71/400
+2257/2257 - 2s - loss: 0.2715 - ent: 0.0010 - val_loss: 0.2471 - val_ent: 0.0010 - epoch_time_sec: 1.6287 - cpu_rss_mb: 2636.9297 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 722us/sample
+Epoch 72/400
+2257/2257 - 1s - loss: 0.2720 - ent: 0.0010 - val_loss: 0.2467 - val_ent: 0.0010 - epoch_time_sec: 1.2611 - cpu_rss_mb: 2636.9453 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 559us/sample
+Epoch 73/400
+2257/2257 - 2s - loss: 0.2719 - ent: 0.0010 - val_loss: 0.2464 - val_ent: 0.0010 - epoch_time_sec: 1.7036 - cpu_rss_mb: 2636.9648 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 754us/sample
+Epoch 74/400
+2257/2257 - 2s - loss: 0.2717 - ent: 0.0010 - val_loss: 0.2474 - val_ent: 0.0010 - epoch_time_sec: 1.5519 - cpu_rss_mb: 2636.9648 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 688us/sample
+Epoch 75/400
+2257/2257 - 2s - loss: 0.2719 - ent: 0.0010 - val_loss: 0.2465 - val_ent: 0.0010 - epoch_time_sec: 1.6564 - cpu_rss_mb: 2636.9648 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 735us/sample
+Epoch 76/400
+2257/2257 - 2s - loss: 0.2717 - ent: 0.0010 - val_loss: 0.2464 - val_ent: 0.0010 - epoch_time_sec: 1.6463 - cpu_rss_mb: 2636.9648 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 730us/sample
+Epoch 77/400
+2257/2257 - 2s - loss: 0.2716 - ent: 0.0010 - val_loss: 0.2463 - val_ent: 0.0010 - epoch_time_sec: 1.6274 - cpu_rss_mb: 2636.9688 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 721us/sample
+Epoch 78/400
+2257/2257 - 1s - loss: 0.2713 - ent: 0.0010 - val_loss: 0.2464 - val_ent: 0.0010 - epoch_time_sec: 1.3469 - cpu_rss_mb: 2636.9961 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 597us/sample
+Epoch 79/400
+2257/2257 - 1s - loss: 0.2713 - ent: 0.0010 - val_loss: 0.2461 - val_ent: 0.0010 - epoch_time_sec: 1.2510 - cpu_rss_mb: 2637.0156 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 554us/sample
+Epoch 80/400
+2257/2257 - 2s - loss: 0.2710 - ent: 0.0010 - val_loss: 0.2463 - val_ent: 0.0010 - epoch_time_sec: 1.6371 - cpu_rss_mb: 2637.0391 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 727us/sample
+Epoch 81/400
+2257/2257 - 2s - loss: 0.2711 - ent: 0.0010 - val_loss: 0.2466 - val_ent: 0.0010 - epoch_time_sec: 1.6989 - cpu_rss_mb: 2637.0586 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 753us/sample
+Epoch 82/400
+2257/2257 - 1s - loss: 0.2712 - ent: 0.0010 - val_loss: 0.2459 - val_ent: 0.0010 - epoch_time_sec: 1.4043 - cpu_rss_mb: 2637.0586 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 622us/sample
+Epoch 83/400
+2257/2257 - 1s - loss: 0.2710 - ent: 0.0010 - val_loss: 0.2462 - val_ent: 0.0010 - epoch_time_sec: 1.3969 - cpu_rss_mb: 2637.0625 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 619us/sample
+Epoch 84/400
+2257/2257 - 2s - loss: 0.2710 - ent: 0.0010 - val_loss: 0.2463 - val_ent: 0.0010 - epoch_time_sec: 1.6520 - cpu_rss_mb: 2637.0625 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 734us/sample
+Epoch 85/400
+2257/2257 - 2s - loss: 0.2710 - ent: 0.0010 - val_loss: 0.2457 - val_ent: 0.0010 - epoch_time_sec: 1.5487 - cpu_rss_mb: 2637.0898 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 686us/sample
+Epoch 86/400
+2257/2257 - 2s - loss: 0.2707 - ent: 0.0010 - val_loss: 0.2457 - val_ent: 0.0010 - epoch_time_sec: 1.5168 - cpu_rss_mb: 2637.0977 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 673us/sample
+Epoch 87/400
+2257/2257 - 2s - loss: 0.2707 - ent: 0.0010 - val_loss: 0.2458 - val_ent: 0.0010 - epoch_time_sec: 2.0396 - cpu_rss_mb: 2637.1016 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 904us/sample
+Epoch 88/400
+2257/2257 - 2s - loss: 0.2707 - ent: 0.0010 - val_loss: 0.2458 - val_ent: 0.0010 - epoch_time_sec: 1.5718 - cpu_rss_mb: 2637.1055 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 696us/sample
+Epoch 89/400
+2257/2257 - 1s - loss: 0.2706 - ent: 0.0010 - val_loss: 0.2459 - val_ent: 0.0010 - epoch_time_sec: 1.4291 - cpu_rss_mb: 2637.1055 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 633us/sample
+Epoch 90/400
+2257/2257 - 2s - loss: 0.2707 - ent: 0.0010 - val_loss: 0.2460 - val_ent: 0.0010 - epoch_time_sec: 1.6478 - cpu_rss_mb: 2637.1094 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 730us/sample
+Epoch 91/400
+2257/2257 - 2s - loss: 0.2707 - ent: 0.0010 - val_loss: 0.2462 - val_ent: 0.0010 - epoch_time_sec: 1.5813 - cpu_rss_mb: 2637.1289 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 701us/sample
+Epoch 92/400
+2257/2257 - 2s - loss: 0.2709 - ent: 0.0010 - val_loss: 0.2460 - val_ent: 0.0010 - epoch_time_sec: 1.5345 - cpu_rss_mb: 2637.1367 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 680us/sample
+Epoch 93/400
+2257/2257 - 2s - loss: 0.2709 - ent: 0.0010 - val_loss: 0.2456 - val_ent: 0.0010 - epoch_time_sec: 1.6340 - cpu_rss_mb: 2637.1367 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 724us/sample
+Epoch 94/400
+2257/2257 - 2s - loss: 0.2705 - ent: 0.0010 - val_loss: 0.2457 - val_ent: 0.0010 - epoch_time_sec: 1.7629 - cpu_rss_mb: 2637.1367 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 781us/sample
+Epoch 95/400
+2257/2257 - 1s - loss: 0.2706 - ent: 0.0010 - val_loss: 0.2458 - val_ent: 0.0010 - epoch_time_sec: 1.3940 - cpu_rss_mb: 2637.1406 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 618us/sample
+Epoch 96/400
+2257/2257 - 2s - loss: 0.2706 - ent: 0.0010 - val_loss: 0.2458 - val_ent: 0.0010 - epoch_time_sec: 1.9396 - cpu_rss_mb: 2637.1445 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 858us/sample
+Epoch 97/400
+2257/2257 - 2s - loss: 0.2708 - ent: 0.0010 - val_loss: 0.2461 - val_ent: 0.0010 - epoch_time_sec: 1.5904 - cpu_rss_mb: 2637.1523 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 705us/sample
+Epoch 98/400
+2257/2257 - 1s - loss: 0.2708 - ent: 0.0010 - val_loss: 0.2458 - val_ent: 0.0010 - epoch_time_sec: 1.2054 - cpu_rss_mb: 2637.1680 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 534us/sample
+Epoch 99/400
+2257/2257 - 2s - loss: 0.2706 - ent: 0.0010 - val_loss: 0.2456 - val_ent: 0.0010 - epoch_time_sec: 1.7610 - cpu_rss_mb: 2637.1680 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 780us/sample
+Epoch 100/400
+2257/2257 - 2s - loss: 0.2705 - ent: 0.0010 - val_loss: 0.2459 - val_ent: 0.0010 - epoch_time_sec: 1.6265 - cpu_rss_mb: 2637.1719 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 723us/sample
+Epoch 101/400
+2257/2257 - 2s - loss: 0.2705 - ent: 0.0010 - val_loss: 0.2456 - val_ent: 0.0010 - epoch_time_sec: 1.5963 - cpu_rss_mb: 2637.1797 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 707us/sample
+Epoch 102/400
+2257/2257 - 2s - loss: 0.2704 - ent: 0.0010 - val_loss: 0.2458 - val_ent: 0.0010 - epoch_time_sec: 1.6094 - cpu_rss_mb: 2637.1797 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 712us/sample
+Epoch 103/400
+2257/2257 - 2s - loss: 0.2703 - ent: 0.0010 - val_loss: 0.2458 - val_ent: 0.0010 - epoch_time_sec: 1.5720 - cpu_rss_mb: 2637.1797 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 697us/sample
+Epoch 104/400
+2257/2257 - 2s - loss: 0.2704 - ent: 0.0010 - val_loss: 0.2456 - val_ent: 0.0010 - epoch_time_sec: 1.5141 - cpu_rss_mb: 2637.2070 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 671us/sample
+Epoch 105/400
+2257/2257 - 2s - loss: 0.2703 - ent: 0.0010 - val_loss: 0.2456 - val_ent: 0.0010 - epoch_time_sec: 1.6410 - cpu_rss_mb: 2637.2188 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 728us/sample
+Epoch 106/400
+2257/2257 - 2s - loss: 0.2703 - ent: 0.0010 - val_loss: 0.2455 - val_ent: 0.0010 - epoch_time_sec: 1.6456 - cpu_rss_mb: 2637.2500 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 728us/sample
+Epoch 107/400
+2257/2257 - 2s - loss: 0.2703 - ent: 0.0010 - val_loss: 0.2455 - val_ent: 0.0010 - epoch_time_sec: 1.5295 - cpu_rss_mb: 2637.2578 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 678us/sample
+Epoch 108/400
+2257/2257 - 2s - loss: 0.2702 - ent: 0.0010 - val_loss: 0.2458 - val_ent: 0.0010 - epoch_time_sec: 1.5300 - cpu_rss_mb: 2637.2578 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 678us/sample
+Epoch 109/400
+2257/2257 - 1s - loss: 0.2703 - ent: 0.0010 - val_loss: 0.2456 - val_ent: 0.0010 - epoch_time_sec: 1.4472 - cpu_rss_mb: 2637.2656 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 641us/sample
+Epoch 110/400
+2257/2257 - 1s - loss: 0.2701 - ent: 0.0010 - val_loss: 0.2453 - val_ent: 0.0010 - epoch_time_sec: 1.3891 - cpu_rss_mb: 2637.2695 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 616us/sample
+Epoch 111/400
+2257/2257 - 2s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2455 - val_ent: 0.0010 - epoch_time_sec: 1.5171 - cpu_rss_mb: 2637.2891 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 672us/sample
+Epoch 112/400
+2257/2257 - 2s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2455 - val_ent: 0.0010 - epoch_time_sec: 1.6469 - cpu_rss_mb: 2637.2891 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 730us/sample
+Epoch 113/400
+2257/2257 - 2s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2453 - val_ent: 0.0010 - epoch_time_sec: 1.6482 - cpu_rss_mb: 2637.3008 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 730us/sample
+Epoch 114/400
+2257/2257 - 1s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2454 - val_ent: 0.0010 - epoch_time_sec: 1.3496 - cpu_rss_mb: 2637.3008 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 598us/sample
+Epoch 115/400
+2257/2257 - 1s - loss: 0.2699 - ent: 0.0010 - val_loss: 0.2452 - val_ent: 0.0010 - epoch_time_sec: 1.4740 - cpu_rss_mb: 2637.3086 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 654us/sample
+Epoch 116/400
+2257/2257 - 2s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2453 - val_ent: 0.0010 - epoch_time_sec: 1.8019 - cpu_rss_mb: 2637.3164 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 800us/sample
+Epoch 117/400
+2257/2257 - 1s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2453 - val_ent: 0.0010 - epoch_time_sec: 1.3771 - cpu_rss_mb: 2637.3203 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 610us/sample
+Epoch 118/400
+2257/2257 - 2s - loss: 0.2701 - ent: 0.0010 - val_loss: 0.2452 - val_ent: 0.0010 - epoch_time_sec: 1.5456 - cpu_rss_mb: 2637.3359 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 685us/sample
+Epoch 119/400
+2257/2257 - 2s - loss: 0.2699 - ent: 0.0010 - val_loss: 0.2453 - val_ent: 0.0010 - epoch_time_sec: 2.0575 - cpu_rss_mb: 2637.3516 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 909us/sample
+Epoch 120/400
+2257/2257 - 1s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2454 - val_ent: 0.0010 - epoch_time_sec: 1.0146 - cpu_rss_mb: 2637.3555 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 450us/sample
+Epoch 121/400
+2257/2257 - 1s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2456 - val_ent: 0.0010 - epoch_time_sec: 1.2859 - cpu_rss_mb: 2637.3555 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 570us/sample
+Epoch 122/400
+2257/2257 - 1s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2457 - val_ent: 0.0010 - epoch_time_sec: 1.4552 - cpu_rss_mb: 2637.3672 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 645us/sample
+Epoch 123/400
+2257/2257 - 2s - loss: 0.2701 - ent: 0.0010 - val_loss: 0.2458 - val_ent: 0.0010 - epoch_time_sec: 1.7342 - cpu_rss_mb: 2637.3711 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 768us/sample
+Epoch 124/400
+2257/2257 - 1s - loss: 0.2703 - ent: 0.0010 - val_loss: 0.2459 - val_ent: 0.0010 - epoch_time_sec: 1.4394 - cpu_rss_mb: 2637.3711 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 638us/sample
+Epoch 125/400
+2257/2257 - 1s - loss: 0.2703 - ent: 0.0010 - val_loss: 0.2456 - val_ent: 0.0010 - epoch_time_sec: 0.9084 - cpu_rss_mb: 2637.3789 - gpu_process_mem_mb: 8082.0000 - 909ms/epoch - 403us/sample
+Epoch 126/400
+2257/2257 - 2s - loss: 0.2702 - ent: 0.0010 - val_loss: 0.2457 - val_ent: 0.0010 - epoch_time_sec: 1.5262 - cpu_rss_mb: 2637.3906 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 676us/sample
+Epoch 127/400
+2257/2257 - 1s - loss: 0.2702 - ent: 0.0010 - val_loss: 0.2456 - val_ent: 0.0010 - epoch_time_sec: 1.3332 - cpu_rss_mb: 2637.4102 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 591us/sample
+Epoch 128/400
+2257/2257 - 1s - loss: 0.2701 - ent: 0.0010 - val_loss: 0.2461 - val_ent: 0.0010 - epoch_time_sec: 1.3474 - cpu_rss_mb: 2637.4141 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 597us/sample
+Epoch 129/400
+2257/2257 - 2s - loss: 0.2705 - ent: 0.0010 - val_loss: 0.2456 - val_ent: 0.0010 - epoch_time_sec: 1.8274 - cpu_rss_mb: 2637.4141 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 811us/sample
+Epoch 130/400
+2257/2257 - 2s - loss: 0.2699 - ent: 0.0010 - val_loss: 0.2454 - val_ent: 0.0010 - epoch_time_sec: 1.7458 - cpu_rss_mb: 2637.4141 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 773us/sample
+Epoch 131/400
+2257/2257 - 2s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2453 - val_ent: 0.0010 - epoch_time_sec: 1.7231 - cpu_rss_mb: 2637.4180 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 764us/sample
+Epoch 132/400
+2257/2257 - 1s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2457 - val_ent: 0.0010 - epoch_time_sec: 1.4908 - cpu_rss_mb: 2637.4297 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 661us/sample
+Epoch 133/400
+2257/2257 - 2s - loss: 0.2699 - ent: 0.0010 - val_loss: 0.2454 - val_ent: 0.0010 - epoch_time_sec: 1.7585 - cpu_rss_mb: 2637.4336 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 779us/sample
+Epoch 134/400
+2257/2257 - 1s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2452 - val_ent: 0.0010 - epoch_time_sec: 1.4337 - cpu_rss_mb: 2637.4375 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 636us/sample
+Epoch 135/400
+2257/2257 - 2s - loss: 0.2699 - ent: 0.0010 - val_loss: 0.2456 - val_ent: 0.0010 - epoch_time_sec: 1.5812 - cpu_rss_mb: 2637.4375 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 702us/sample
+Epoch 136/400
+2257/2257 - 2s - loss: 0.2700 - ent: 0.0010 - val_loss: 0.2453 - val_ent: 0.0010 - epoch_time_sec: 1.5417 - cpu_rss_mb: 2637.4375 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 683us/sample
+Epoch 137/400
+2257/2257 - 2s - loss: 0.2698 - ent: 0.0010 - val_loss: 0.2454 - val_ent: 0.0010 - epoch_time_sec: 1.6244 - cpu_rss_mb: 2637.4375 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 720us/sample
+Epoch 138/400
+2257/2257 - 2s - loss: 0.2698 - ent: 0.0010 - val_loss: 0.2451 - val_ent: 0.0010 - epoch_time_sec: 1.5838 - cpu_rss_mb: 2637.4375 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 702us/sample
+Epoch 139/400
+2257/2257 - 2s - loss: 0.2698 - ent: 0.0010 - val_loss: 0.2454 - val_ent: 0.0010 - epoch_time_sec: 1.5302 - cpu_rss_mb: 2637.4375 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 678us/sample
+Epoch 140/400
+2257/2257 - 2s - loss: 0.2698 - ent: 0.0010 - val_loss: 0.2452 - val_ent: 0.0010 - epoch_time_sec: 1.5901 - cpu_rss_mb: 2637.4648 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 705us/sample
+Epoch 141/400
+2257/2257 - 2s - loss: 0.2697 - ent: 0.0010 - val_loss: 0.2453 - val_ent: 0.0010 - epoch_time_sec: 1.6835 - cpu_rss_mb: 2637.4648 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 746us/sample
+Epoch 142/400
+2257/2257 - 2s - loss: 0.2696 - ent: 0.0010 - val_loss: 0.2453 - val_ent: 0.0010 - epoch_time_sec: 1.8096 - cpu_rss_mb: 2637.6328 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 801us/sample
+Epoch 143/400
+2257/2257 - 2s - loss: 0.2696 - ent: 0.0010 - val_loss: 0.2454 - val_ent: 0.0010 - epoch_time_sec: 1.5760 - cpu_rss_mb: 2637.7031 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 699us/sample
+Epoch 144/400
+2257/2257 - 2s - loss: 0.2696 - ent: 0.0010 - val_loss: 0.2455 - val_ent: 0.0010 - epoch_time_sec: 1.7029 - cpu_rss_mb: 2637.7227 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 754us/sample
+Epoch 145/400
+2257/2257 - 1s - loss: 0.2697 - ent: 0.0010 - val_loss: 0.2451 - val_ent: 0.0010 - epoch_time_sec: 1.3339 - cpu_rss_mb: 2637.7227 - gpu_process_mem_mb: 8082.0000 - 1s/epoch - 591us/sample
+Epoch 146/400
+2257/2257 - 2s - loss: 0.2696 - ent: 0.0010 - val_loss: 0.2452 - val_ent: 0.0010 - epoch_time_sec: 1.5107 - cpu_rss_mb: 2637.7852 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 670us/sample
+Epoch 147/400
+2257/2257 - 2s - loss: 0.2696 - ent: 0.0010 - val_loss: 0.2451 - val_ent: 0.0010 - epoch_time_sec: 1.6885 - cpu_rss_mb: 2637.8086 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 748us/sample
+Epoch 148/400
+2257/2257 - 2s - loss: 0.2696 - ent: 0.0010 - val_loss: 0.2451 - val_ent: 0.0010 - epoch_time_sec: 1.7006 - cpu_rss_mb: 2637.8086 - gpu_process_mem_mb: 8082.0000 - 2s/epoch - 752us/sample

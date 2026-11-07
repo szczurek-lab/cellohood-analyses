@@ -1,0 +1,40 @@
+{
+  "N_clinical_cohort": 32,
+  "id_mapping_mismatches": 0,
+  "recurrence_events": 13,
+  "survival_death_events": 12,
+  "recurrence_LR_test_p_enriched_beyond_baseline": 0.844775018223874,
+  "os_LR_test_p_enriched_beyond_baseline": 0.6452739529147664,
+  "recurrence_concordance": {
+    "baseline (bulk immune fraction) only": 0.69,
+    "neighborhood (K=13 enriched score) only": 0.6733333333333333,
+    "neighborhood RAW (no enrichment-ratio) only": 0.5733333333333334,
+    "baseline + neighborhood (combined)": 0.68
+  },
+  "os_concordance": {
+    "baseline (bulk immune fraction) only": 0.656934306569343,
+    "neighborhood (K=13 enriched score) only": 0.6459854014598541,
+    "neighborhood RAW (no enrichment-ratio) only": 0.5693430656934306,
+    "baseline + neighborhood (combined)": 0.6459854014598541
+  },
+  "grade": {
+    "auc_baseline": 0.5833333333333334,
+    "auc_raw": 0.6071428571428572,
+    "auc_enriched": 0.5833333333333333,
+    "auc_residualized": 0.6190476190476191,
+    "corr_enriched_baseline": -0.8301958560842224
+  },
+  "stage": {
+    "auc_baseline": 0.7085714285714286,
+    "auc_raw": 0.6457142857142857,
+    "auc_enriched": 0.6799999999999999,
+    "auc_residualized": 0.6114285714285714,
+    "corr_enriched_baseline": -0.8294163395587208
+  },
+  "age_corr": {
+    "baseline": 0.11641276289760154,
+    "raw": 0.03708339108564032,
+    "enriched": -0.11780042305094095,
+    "residualized": 0.0013910869089013844
+  }
+}

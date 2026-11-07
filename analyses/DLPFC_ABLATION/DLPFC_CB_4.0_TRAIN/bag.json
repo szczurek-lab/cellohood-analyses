@@ -1,0 +1,1 @@
+{"image_id_column": "sample", "pos_col_names": ["pos_x", "pos_y"], "distance_threshold": 4.0, "cellohood_neighborhood_cluster_colname": "cellohood_neighborhood_cluster", "marker_col_names": ["SCVI5:0", "SCVI5:1", "SCVI5:2", "SCVI5:3", "SCVI5:4"]}

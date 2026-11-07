@@ -1,0 +1,11 @@
+{
+  "K": 13,
+  "N_COMP": 2,
+  "auc_confound_best_dir": 0.9148148148148147,
+  "auc_raw_best_dir": 0.674074074074074,
+  "auc_enriched_best_dir": 0.9185185185185185,
+  "corr_enriched_vs_confound_pearson": 0.9981975070223793,
+  "corr_enriched_vs_confound_spearman": 0.9876336898395723,
+  "auc_residualized_best_dir": 0.5296296296296297,
+  "mean_pairwise_l1_cluster_profiles": 0.1822860668277499
+}

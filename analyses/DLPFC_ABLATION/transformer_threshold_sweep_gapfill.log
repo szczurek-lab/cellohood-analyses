@@ -1,0 +1,921 @@
+DT: 2.0, RN: 0, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.314018249511719e-05 seconds.
+DT: 2.0, RN: 1, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.430511474609375e-05 seconds.
+DT: 2.0, RN: 2, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.361701965332031e-05 seconds.
+DT: 2.0, RN: 3, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 4.1484832763671875e-05 seconds.
+DT: 2.0, RN: 4, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.5762786865234375e-05 seconds.
+DT: 2.0, RN: 5, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 5.3882598876953125e-05 seconds.
+DT: 2.0, RN: 6, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 4.38690185546875e-05 seconds.
+DT: 2.0, RN: 7, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.288818359375e-05 seconds.
+DT: 2.0, RN: 8, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.647804260253906e-05 seconds.
+DT: 2.0, RN: 9, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.288818359375e-05 seconds.
+DT: 3.0, RN: 0, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 4.124641418457031e-05 seconds.
+DT: 3.0, RN: 1, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.6927719116210938e-05 seconds.
+DT: 3.0, RN: 2, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.3589859008789062e-05 seconds.
+DT: 3.0, RN: 3, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.430511474609375e-05 seconds.
+DT: 3.0, RN: 4, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.384185791015625e-05 seconds.
+DT: 3.0, RN: 5, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 4.076957702636719e-05 seconds.
+DT: 3.0, RN: 6, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.0503997802734375e-05 seconds.
+DT: 3.0, RN: 7, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.337860107421875e-05 seconds.
+DT: 3.0, RN: 8, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.4066696166992188e-05 seconds.
+DT: 3.0, RN: 9, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.3828277587890625e-05 seconds.
+DT: 4.0, RN: 0, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.430511474609375e-05 seconds.
+DT: 4.0, RN: 1, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.6702880859375e-05 seconds.
+DT: 4.0, RN: 2, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.361701965332031e-05 seconds.
+DT: 4.0, RN: 3, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.7418136596679688e-05 seconds.
+DT: 4.0, RN: 4, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 6.890296936035156e-05 seconds.
+DT: 4.0, RN: 5, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.4066696166992188e-05 seconds.
+DT: 4.0, RN: 6, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 4.172325134277344e-05 seconds.
+DT: 4.0, RN: 7, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.4781951904296875e-05 seconds.
+DT: 4.0, RN: 8, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 4.887580871582031e-05 seconds.
+DT: 4.0, RN: 9, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.4543533325195312e-05 seconds.
+DT: 5.0, RN: 0, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.3828277587890625e-05 seconds.
+DT: 5.0, RN: 1, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 4.6253204345703125e-05 seconds.
+DT: 5.0, RN: 2, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.886222839355469e-05 seconds.
+DT: 5.0, RN: 3, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 5.7697296142578125e-05 seconds.
+DT: 5.0, RN: 4, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.288818359375e-05 seconds.
+DT: 5.0, RN: 5, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.3589859008789062e-05 seconds.
+DT: 5.0, RN: 6, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 8.940696716308594e-05 seconds.
+DT: 5.0, RN: 7, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.0265579223632812e-05 seconds.
+DT: 5.0, RN: 8, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 4.9114227294921875e-05 seconds.
+DT: 5.0, RN: 9, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 4.1961669921875e-05 seconds.
+DT: 6.0, RN: 0, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.430511474609375e-05 seconds.
+DT: 6.0, RN: 1, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.528594970703125e-05 seconds.
+DT: 6.0, RN: 2, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.8848648071289062e-05 seconds.
+DT: 6.0, RN: 3, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.430511474609375e-05 seconds.
+DT: 6.0, RN: 4, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.3603439331054688e-05 seconds.
+DT: 6.0, RN: 5, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.5020370483398438e-05 seconds.
+DT: 6.0, RN: 6, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.5974044799804688e-05 seconds.
+DT: 6.0, RN: 7, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.8371810913085938e-05 seconds.
+DT: 6.0, RN: 8, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 0.0002810955047607422 seconds.
+DT: 6.0, RN: 9, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.6450881958007812e-05 seconds.
+2026-09-27 16:31:41.769274: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:31:41.774884: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:31:41.775371: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:31:42.935897: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:31:42.966750: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:31:42.967296: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:31:42.967742: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:31:44.183452: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:31:44.184188: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:31:44.184876: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:31:44.185479: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:31:48.801989: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 1 neighborhood(s) exceed max_neighborhood_size=14 and were truncated to fit the model input; 1 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 7.0, RN: 0, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 14, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 2
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.257240  0.267122  0.402427  ...  0.310811  0.287655  0.285143
+standard  0.446585  0.306655  0.560083  ...  0.426707  0.465867  0.473225
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_7.0_run_0_128_256_64_4_split.csv
+Took: 20.617688417434692 seconds.
+2026-09-27 16:32:10.424963: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:10.447638: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:10.448658: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:32:12.266663: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:32:12.274506: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:12.275032: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:12.275468: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:13.880509: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:13.881032: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:13.881483: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:13.881914: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:32:17.862742: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 1 neighborhood(s) exceed max_neighborhood_size=14 and were truncated to fit the model input; 1 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 7.0, RN: 1, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 14, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 2
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.566269  0.398626  0.528600  ...  0.521438  0.464142  0.442248
+standard  0.527261  0.406158  0.441906  ...  0.393462  0.438293  0.445736
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_7.0_run_1_128_256_64_4_split.csv
+Took: 20.79386329650879 seconds.
+2026-09-27 16:32:38.454207: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:38.462160: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:38.463218: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:32:39.519720: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:32:39.543731: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:39.544623: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:39.545249: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:40.860210: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:40.860839: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:40.861305: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:32:40.861771: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:32:44.971674: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 1 neighborhood(s) exceed max_neighborhood_size=14 and were truncated to fit the model input; 1 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 7.0, RN: 2, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 14, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 1
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.245549  0.179618  0.334222  ...  0.297776  0.243548  0.276742
+standard  0.483456  0.307886  0.553531  ...  0.473675  0.410775  0.411877
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_7.0_run_2_128_256_64_4_split.csv
+Took: 19.35031294822693 seconds.
+2026-09-27 16:33:04.079814: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:04.087809: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:04.088441: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:33:05.021880: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:33:05.066658: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:05.067307: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:05.067765: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:06.761252: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:06.761996: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:06.807067: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:06.807954: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:33:10.779858: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 1 neighborhood(s) exceed max_neighborhood_size=14 and were truncated to fit the model input; 1 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 7.0, RN: 3, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 14, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 2
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.450706  0.332106  0.511096  ...  0.408215  0.434195  0.436762
+standard  0.366151  0.369037  0.507188  ...  0.454900  0.411282  0.463355
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_7.0_run_3_128_256_64_4_split.csv
+Took: 20.607563734054565 seconds.
+2026-09-27 16:33:31.337384: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:31.348754: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:31.349451: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:33:32.523240: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:33:32.572210: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:32.572753: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:32.573164: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:34.456751: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:34.458717: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:34.459329: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:33:34.459987: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:33:38.581612: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 1 neighborhood(s) exceed max_neighborhood_size=14 and were truncated to fit the model input; 1 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 7.0, RN: 4, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 14, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 2
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.498024  0.342031  0.465564  ...  0.434686  0.436293  0.425881
+standard  0.529281  0.347745  0.458737  ...  0.481021  0.410938  0.420626
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_7.0_run_4_128_256_64_4_split.csv
+Took: 23.854650735855103 seconds.
+2026-09-27 16:34:03.871035: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:03.876585: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:03.877082: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:34:05.434692: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:34:05.464257: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:05.464932: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:05.465358: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:06.903401: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:06.911971: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:06.916399: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:06.917163: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:34:11.173241: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 1 neighborhood(s) exceed max_neighborhood_size=14 and were truncated to fit the model input; 1 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 7.0, RN: 5, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 14, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 2
+Nb of coarse components: 1
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.331628  0.319084  0.336675  ...  0.298906  0.286962  0.328129
+standard  0.378797  0.303955  0.475717  ...  0.345850  0.380502  0.390180
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_7.0_run_5_128_256_64_4_split.csv
+Took: 24.084152460098267 seconds.
+2026-09-27 16:34:34.720922: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:34.735234: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:34.736056: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:34:35.861707: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:34:35.873309: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:35.873816: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:35.874225: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:37.503864: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:37.504900: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:37.505530: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:34:37.506177: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:34:42.026917: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 1 neighborhood(s) exceed max_neighborhood_size=14 and were truncated to fit the model input; 1 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 7.0, RN: 6, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 14, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 1
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.319095  0.331785  0.330671  ...  0.276158  0.289358  0.311532
+standard  0.420156  0.342330  0.465617  ...  0.408077  0.409983  0.446448
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_7.0_run_6_128_256_64_4_split.csv
+Took: 25.422627687454224 seconds.
+2026-09-27 16:35:08.822029: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:08.854626: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:08.855440: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:35:09.908211: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:35:09.968038: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:09.968580: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:09.968999: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:11.093907: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:11.099194: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:11.100042: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:11.100707: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:35:15.476622: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 1 neighborhood(s) exceed max_neighborhood_size=14 and were truncated to fit the model input; 1 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 7.0, RN: 7, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 14, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 1
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.450141  0.217509  0.369118  ...  0.361658  0.342188  0.341385
+standard  0.493753  0.389940  0.473120  ...  0.468532  0.428703  0.464249
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_7.0_run_7_128_256_64_4_split.csv
+Took: 21.478188514709473 seconds.
+2026-09-27 16:35:36.575079: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:36.581426: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:36.581960: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:35:38.180093: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:35:38.235633: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:38.236324: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:38.236789: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:39.491431: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:39.492121: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:39.492645: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:35:39.493164: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:35:43.679164: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 1 neighborhood(s) exceed max_neighborhood_size=14 and were truncated to fit the model input; 1 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 7.0, RN: 8, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 14, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 2
+            151507    151672    151673  ...   151674    151675    151676
+PLDA                                    ...                             
+coarse    0.461160  0.279208  0.530679  ...  0.36836  0.371323  0.350603
+standard  0.501697  0.376406  0.556324  ...  0.49140  0.473489  0.495013
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_7.0_run_8_128_256_64_4_split.csv
+Took: 22.264209985733032 seconds.
+2026-09-27 16:36:06.352208: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:36:06.368863: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:36:06.369416: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:36:07.460389: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:36:07.469411: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:36:07.469913: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:36:07.470358: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:36:08.724269: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:36:08.725034: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:36:08.725543: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:36:08.726060: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:36:13.324871: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 1 neighborhood(s) exceed max_neighborhood_size=14 and were truncated to fit the model input; 1 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 7.0, RN: 9, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 14, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 2
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.462138  0.350332  0.539090  ...  0.564052  0.428698  0.399257
+standard  0.433163  0.339791  0.491563  ...  0.491760  0.503492  0.524260
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_7.0_run_9_128_256_64_4_split.csv
+Took: 21.512469053268433 seconds.
+DT: 8.0, RN: 0, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.0994415283203125e-05 seconds.
+DT: 8.0, RN: 1, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.075599670410156e-05 seconds.
+DT: 8.0, RN: 2, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.4080276489257812e-05 seconds.
+DT: 8.0, RN: 3, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.981590270996094e-05 seconds.
+DT: 8.0, RN: 4, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.0517578125e-05 seconds.
+DT: 8.0, RN: 5, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 8.630752563476562e-05 seconds.
+DT: 8.0, RN: 6, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 4.553794860839844e-05 seconds.
+DT: 8.0, RN: 7, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.123283386230469e-05 seconds.
+DT: 8.0, RN: 8, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.2901763916015625e-05 seconds.
+DT: 8.0, RN: 9, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 0.0003578662872314453 seconds.
+2026-09-27 16:37:41.091846: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:37:41.109963: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:37:41.110844: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:37:42.872973: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:37:42.883369: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:37:42.950979: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:37:42.957585: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:37:44.240802: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:37:44.241566: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:37:44.242091: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:37:44.246655: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:37:48.372009: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 6 neighborhood(s) exceed max_neighborhood_size=17 and were truncated to fit the model input; 7 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 9.0, RN: 0, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 17, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 2
+Nb of coarse components: 1
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.118984  0.034474  0.024322  ...  0.028892  0.017323  0.108072
+standard  0.176514  0.057570  0.037046  ...  0.031955  0.020308  0.122296
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_9.0_run_0_128_256_64_4_split.csv
+Took: 19.47135090827942 seconds.
+2026-09-27 16:38:06.824539: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:06.857866: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:06.858647: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:38:08.107426: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:38:08.171750: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:08.172431: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:08.173017: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:09.624582: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:09.625227: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:09.625736: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:09.626212: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:38:13.978963: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 6 neighborhood(s) exceed max_neighborhood_size=17 and were truncated to fit the model input; 7 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 9.0, RN: 1, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 17, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 2
+Nb of coarse components: 1
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.092320  0.018760  0.010636  ...  0.010802  0.009916  0.047779
+standard  0.129521  0.025294  0.014049  ...  0.010019  0.027794  0.087249
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_9.0_run_1_128_256_64_4_split.csv
+Took: 16.55967402458191 seconds.
+2026-09-27 16:38:31.021696: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:31.039521: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:31.040258: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:38:31.853868: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:38:31.862429: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:31.863114: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:31.863691: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:32.981133: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:32.981647: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:32.982098: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:32.982783: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:38:36.902216: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 6 neighborhood(s) exceed max_neighborhood_size=17 and were truncated to fit the model input; 7 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 9.0, RN: 2, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 17, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 2
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.102021  0.033248  0.025407  ...  0.019157  0.015612  0.071078
+standard  0.126661  0.054573  0.023677  ...  0.018083  0.025357  0.094652
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_9.0_run_2_128_256_64_4_split.csv
+Took: 18.12555718421936 seconds.
+2026-09-27 16:38:56.622454: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:56.648236: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:56.649230: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:38:58.463345: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:38:58.472132: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:58.472682: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:38:58.473133: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:00.037050: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:00.038600: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:00.039234: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:00.039896: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:39:04.465227: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 6 neighborhood(s) exceed max_neighborhood_size=17 and were truncated to fit the model input; 7 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 9.0, RN: 3, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 17, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 2
+Nb of coarse components: 1
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.081603 -0.000022  0.014774  ...  0.011641  0.017310  0.074402
+standard  0.118960  0.015420  0.015232  ...  0.017550  0.034389  0.110385
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_9.0_run_3_128_256_64_4_split.csv
+Took: 18.41018581390381 seconds.
+2026-09-27 16:39:22.524923: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:22.555282: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:22.556215: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:39:23.826660: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:39:23.868914: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:23.869502: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:23.869946: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:25.415267: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:25.416100: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:25.416684: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:25.417302: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:39:30.258060: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 6 neighborhood(s) exceed max_neighborhood_size=17 and were truncated to fit the model input; 7 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 9.0, RN: 4, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 17, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 2
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.137004  0.047471  0.031896  ...  0.028627  0.024874  0.098198
+standard  0.131526  0.058206  0.020133  ...  0.020386  0.022152  0.090360
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_9.0_run_4_128_256_64_4_split.csv
+Took: 21.55213713645935 seconds.
+2026-09-27 16:39:51.415747: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:51.443323: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:51.444350: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:39:52.964685: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:39:53.046344: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:53.046907: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:53.047321: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:54.697967: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:54.699639: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:54.700889: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:39:54.702201: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:39:58.565686: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 6 neighborhood(s) exceed max_neighborhood_size=17 and were truncated to fit the model input; 7 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 9.0, RN: 5, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 17, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 2
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.175311  0.050196  0.035630  ...  0.030617  0.014424  0.108496
+standard  0.162915  0.042343  0.031895  ...  0.029343  0.022292  0.111897
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_9.0_run_5_128_256_64_4_split.csv
+Took: 20.204458236694336 seconds.
+2026-09-27 16:40:19.980895: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:20.009980: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:20.011156: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:40:21.322910: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:40:21.350324: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:21.351030: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:21.351572: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:22.639571: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:22.647326: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:22.648085: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:22.648756: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:40:27.054223: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 6 neighborhood(s) exceed max_neighborhood_size=17 and were truncated to fit the model input; 7 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 9.0, RN: 6, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 17, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 2
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.111096  0.025827  0.021559  ...  0.013325  0.019771  0.088907
+standard  0.139526  0.046813  0.023154  ...  0.025366  0.021994  0.104841
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_9.0_run_6_128_256_64_4_split.csv
+Took: 19.8319149017334 seconds.
+2026-09-27 16:40:46.562995: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:46.570667: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:46.571158: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:40:47.776767: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:40:47.813958: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:47.814732: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:47.815256: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:49.408621: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:49.409566: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:49.410206: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:40:49.411307: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:40:54.028230: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 6 neighborhood(s) exceed max_neighborhood_size=17 and were truncated to fit the model input; 7 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 9.0, RN: 7, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 17, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 2
+Nb of coarse components: 1
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.114305  0.033055  0.024755  ...  0.021936  0.017874  0.123254
+standard  0.136695  0.038305  0.036068  ...  0.025179  0.017603  0.107538
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_9.0_run_7_128_256_64_4_split.csv
+Took: 18.961198091506958 seconds.
+2026-09-27 16:41:13.856475: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:13.868819: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:13.869315: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:41:14.974962: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:41:15.016068: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:15.016899: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:15.017375: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:16.546626: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:16.547167: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:16.547631: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:16.548073: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:41:21.675081: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 6 neighborhood(s) exceed max_neighborhood_size=17 and were truncated to fit the model input; 7 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 9.0, RN: 8, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 17, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 2
+Nb of coarse components: 1
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.095388  0.027332  0.023386  ...  0.017284  0.021875  0.104350
+standard  0.127567  0.040193  0.032284  ...  0.029081  0.026382  0.120369
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_9.0_run_8_128_256_64_4_split.csv
+Took: 18.76711654663086 seconds.
+2026-09-27 16:41:40.893814: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:40.908590: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:40.909359: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+/home/marmarmarmar/immucan/lib/python3.8/site-packages/keras/engine/training_v1.py:2079: UserWarning: `Model.state_updates` will be removed in a future version. This property should not be used in TensorFlow 2.0, as `updates` are applied automatically.
+  updates=self.state_updates,
+WARNING:tensorflow:OMP_NUM_THREADS is no longer used by the default Keras config. To configure the number of threads, use tf.config.threading APIs.
+2026-09-27 16:41:42.088798: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-09-27 16:41:42.151523: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:42.152351: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:42.152920: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:43.788577: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:43.789397: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:43.789976: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:939] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2026-09-27 16:41:43.790599: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1525] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 8221 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:4b:00.0, compute capability: 7.5
+2026-09-27 16:41:48.825195: I tensorflow/stream_executor/cuda/cuda_dnn.cc:366] Loaded cuDNN version 8201
+/raid/immucan/immuw/cellohood/cellohood/models/utils.py:180: UserWarning: 6 neighborhood(s) exceed max_neighborhood_size=17 and were truncated to fit the model input; 7 cell(s) are missing from the returned predictions as a result. This typically happens when max_neighborhood_size was inferred from a training subset whose largest neighborhood is smaller than one encountered at prediction time.
+  warnings.warn(
+DT: 9.0, RN: 9, LS: 128, ILS: 256, Lat S: 64, NH: 4
+{'output_size': 5, 'max_neighborhood_size': 17, 'latent_size': 64, 'layer_size': 128, 'intermediate_layer_size': 256}
+Nb of standard components: 3
+Nb of coarse components: 1
+            151507    151672    151673  ...    151674    151675    151676
+PLDA                                    ...                              
+coarse    0.099100  0.013045  0.018034  ...  0.011960  0.024367  0.108651
+standard  0.116484  0.046219  0.016383  ...  0.019665  0.034532  0.102379
+
+[2 rows x 12 columns]
+Saved: benchmark_sample_aris_df_threshold_9.0_run_9_128_256_64_4_split.csv
+Took: 20.1300950050354 seconds.
+DT: 10.0, RN: 0, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.409385681152344e-05 seconds.
+DT: 10.0, RN: 1, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 0.0001266002655029297 seconds.
+DT: 10.0, RN: 2, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.5974044799804688e-05 seconds.
+DT: 10.0, RN: 3, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.5974044799804688e-05 seconds.
+DT: 10.0, RN: 4, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.7894973754882812e-05 seconds.
+DT: 10.0, RN: 5, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 2.09808349609375e-05 seconds.
+DT: 10.0, RN: 6, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 3.933906555175781e-05 seconds.
+DT: 10.0, RN: 7, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.71661376953125e-05 seconds.
+DT: 10.0, RN: 8, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.6689300537109375e-05 seconds.
+DT: 10.0, RN: 9, LS: 128, ILS: 256, Lat S: 64, NH: 4
+Took: 1.3828277587890625e-05 seconds.
+[START] threshold=2.0 run=0 attempt=1
+[OK] threshold=2.0 run=0
+[START] threshold=2.0 run=1 attempt=1
+[OK] threshold=2.0 run=1
+[START] threshold=2.0 run=2 attempt=1
+[OK] threshold=2.0 run=2
+[START] threshold=2.0 run=3 attempt=1
+[OK] threshold=2.0 run=3
+[START] threshold=2.0 run=4 attempt=1
+[OK] threshold=2.0 run=4
+[START] threshold=2.0 run=5 attempt=1
+[OK] threshold=2.0 run=5
+[START] threshold=2.0 run=6 attempt=1
+[OK] threshold=2.0 run=6
+[START] threshold=2.0 run=7 attempt=1
+[OK] threshold=2.0 run=7
+[START] threshold=2.0 run=8 attempt=1
+[OK] threshold=2.0 run=8
+[START] threshold=2.0 run=9 attempt=1
+[OK] threshold=2.0 run=9
+[START] threshold=3.0 run=0 attempt=1
+[OK] threshold=3.0 run=0
+[START] threshold=3.0 run=1 attempt=1
+[OK] threshold=3.0 run=1
+[START] threshold=3.0 run=2 attempt=1
+[OK] threshold=3.0 run=2
+[START] threshold=3.0 run=3 attempt=1
+[OK] threshold=3.0 run=3
+[START] threshold=3.0 run=4 attempt=1
+[OK] threshold=3.0 run=4
+[START] threshold=3.0 run=5 attempt=1
+[OK] threshold=3.0 run=5
+[START] threshold=3.0 run=6 attempt=1
+[OK] threshold=3.0 run=6
+[START] threshold=3.0 run=7 attempt=1
+[OK] threshold=3.0 run=7
+[START] threshold=3.0 run=8 attempt=1
+[OK] threshold=3.0 run=8
+[START] threshold=3.0 run=9 attempt=1
+[OK] threshold=3.0 run=9
+[START] threshold=4.0 run=0 attempt=1
+[OK] threshold=4.0 run=0
+[START] threshold=4.0 run=1 attempt=1
+[OK] threshold=4.0 run=1
+[START] threshold=4.0 run=2 attempt=1
+[OK] threshold=4.0 run=2
+[START] threshold=4.0 run=3 attempt=1
+[OK] threshold=4.0 run=3
+[START] threshold=4.0 run=4 attempt=1
+[OK] threshold=4.0 run=4
+[START] threshold=4.0 run=5 attempt=1
+[OK] threshold=4.0 run=5
+[START] threshold=4.0 run=6 attempt=1
+[OK] threshold=4.0 run=6
+[START] threshold=4.0 run=7 attempt=1
+[OK] threshold=4.0 run=7
+[START] threshold=4.0 run=8 attempt=1
+[OK] threshold=4.0 run=8
+[START] threshold=4.0 run=9 attempt=1
+[OK] threshold=4.0 run=9
+[START] threshold=5.0 run=0 attempt=1
+[OK] threshold=5.0 run=0
+[START] threshold=5.0 run=1 attempt=1
+[OK] threshold=5.0 run=1
+[START] threshold=5.0 run=2 attempt=1
+[OK] threshold=5.0 run=2
+[START] threshold=5.0 run=3 attempt=1
+[OK] threshold=5.0 run=3
+[START] threshold=5.0 run=4 attempt=1
+[OK] threshold=5.0 run=4
+[START] threshold=5.0 run=5 attempt=1
+[OK] threshold=5.0 run=5
+[START] threshold=5.0 run=6 attempt=1
+[OK] threshold=5.0 run=6
+[START] threshold=5.0 run=7 attempt=1
+[OK] threshold=5.0 run=7
+[START] threshold=5.0 run=8 attempt=1
+[OK] threshold=5.0 run=8
+[START] threshold=5.0 run=9 attempt=1
+[OK] threshold=5.0 run=9
+[START] threshold=6.0 run=0 attempt=1
+[OK] threshold=6.0 run=0
+[START] threshold=6.0 run=1 attempt=1
+[OK] threshold=6.0 run=1
+[START] threshold=6.0 run=2 attempt=1
+[OK] threshold=6.0 run=2
+[START] threshold=6.0 run=3 attempt=1
+[OK] threshold=6.0 run=3
+[START] threshold=6.0 run=4 attempt=1
+[OK] threshold=6.0 run=4
+[START] threshold=6.0 run=5 attempt=1
+[OK] threshold=6.0 run=5
+[START] threshold=6.0 run=6 attempt=1
+[OK] threshold=6.0 run=6
+[START] threshold=6.0 run=7 attempt=1
+[OK] threshold=6.0 run=7
+[START] threshold=6.0 run=8 attempt=1
+[OK] threshold=6.0 run=8
+[START] threshold=6.0 run=9 attempt=1
+[OK] threshold=6.0 run=9
+[START] threshold=7.0 run=0 attempt=1
+[OK] threshold=7.0 run=0
+[START] threshold=7.0 run=1 attempt=1
+[OK] threshold=7.0 run=1
+[START] threshold=7.0 run=2 attempt=1
+[OK] threshold=7.0 run=2
+[START] threshold=7.0 run=3 attempt=1
+[OK] threshold=7.0 run=3
+[START] threshold=7.0 run=4 attempt=1
+[OK] threshold=7.0 run=4
+[START] threshold=7.0 run=5 attempt=1
+[OK] threshold=7.0 run=5
+[START] threshold=7.0 run=6 attempt=1
+[OK] threshold=7.0 run=6
+[START] threshold=7.0 run=7 attempt=1
+[OK] threshold=7.0 run=7
+[START] threshold=7.0 run=8 attempt=1
+[OK] threshold=7.0 run=8
+[START] threshold=7.0 run=9 attempt=1
+[OK] threshold=7.0 run=9
+[START] threshold=8.0 run=0 attempt=1
+[OK] threshold=8.0 run=0
+[START] threshold=8.0 run=1 attempt=1
+[OK] threshold=8.0 run=1
+[START] threshold=8.0 run=2 attempt=1
+[OK] threshold=8.0 run=2
+[START] threshold=8.0 run=3 attempt=1
+[OK] threshold=8.0 run=3
+[START] threshold=8.0 run=4 attempt=1
+[OK] threshold=8.0 run=4
+[START] threshold=8.0 run=5 attempt=1
+[OK] threshold=8.0 run=5
+[START] threshold=8.0 run=6 attempt=1
+[OK] threshold=8.0 run=6
+[START] threshold=8.0 run=7 attempt=1
+[OK] threshold=8.0 run=7
+[START] threshold=8.0 run=8 attempt=1
+[OK] threshold=8.0 run=8
+[START] threshold=8.0 run=9 attempt=1
+[OK] threshold=8.0 run=9
+[START] threshold=9.0 run=0 attempt=1
+[OK] threshold=9.0 run=0
+[START] threshold=9.0 run=1 attempt=1
+[OK] threshold=9.0 run=1
+[START] threshold=9.0 run=2 attempt=1
+[OK] threshold=9.0 run=2
+[START] threshold=9.0 run=3 attempt=1
+[OK] threshold=9.0 run=3
+[START] threshold=9.0 run=4 attempt=1
+[OK] threshold=9.0 run=4
+[START] threshold=9.0 run=5 attempt=1
+[OK] threshold=9.0 run=5
+[START] threshold=9.0 run=6 attempt=1
+[OK] threshold=9.0 run=6
+[START] threshold=9.0 run=7 attempt=1
+[OK] threshold=9.0 run=7
+[START] threshold=9.0 run=8 attempt=1
+[OK] threshold=9.0 run=8
+[START] threshold=9.0 run=9 attempt=1
+[OK] threshold=9.0 run=9
+[START] threshold=10.0 run=0 attempt=1
+[OK] threshold=10.0 run=0
+[START] threshold=10.0 run=1 attempt=1
+[OK] threshold=10.0 run=1
+[START] threshold=10.0 run=2 attempt=1
+[OK] threshold=10.0 run=2
+[START] threshold=10.0 run=3 attempt=1
+[OK] threshold=10.0 run=3
+[START] threshold=10.0 run=4 attempt=1
+[OK] threshold=10.0 run=4
+[START] threshold=10.0 run=5 attempt=1
+[OK] threshold=10.0 run=5
+[START] threshold=10.0 run=6 attempt=1
+[OK] threshold=10.0 run=6
+[START] threshold=10.0 run=7 attempt=1
+[OK] threshold=10.0 run=7
+[START] threshold=10.0 run=8 attempt=1
+[OK] threshold=10.0 run=8
+[START] threshold=10.0 run=9 attempt=1
+[OK] threshold=10.0 run=9
+Finished. Success: 90/90
